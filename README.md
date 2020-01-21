@@ -8,7 +8,10 @@ Demo:
 https://kpolgar.github.io/robotfriends-redux
 
 ## Technologies Used
-HTML5
-CSS3
-React.js
-Redux
+* HTML5
+* CSS3
+* Javascript
+* React.js
+* Redux
+
+
